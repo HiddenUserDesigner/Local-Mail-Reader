@@ -1,0 +1,13 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos de credenciales y seguridad (¡NUNCA SUBIR A GITHUB!)
+credenciales.json
+credentials.json
+token.json
+.env
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
