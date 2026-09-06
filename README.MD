@@ -3,12 +3,12 @@
 ## 1. Description
 Python script that connects to the official Gmail API to download recent emails and process their content using a local language model (such as Llama 3 in LM Studio). It allows users to ask questions and summarize their inbox interactively while maintaining complete data privacy (without sending information to external servers).
 
-## 2. Requisitos Previos
+## 2. Requirements
 * **Lenguaje:** Python 3.x
 * **AI Environment: LM Studio (with the local server running on your preferred port)
 * **Google API: Google Cloud account with the Gmail API enabled and a credentials.json file.
 
-## 3. Características Clave
+## 3. Key Features
 * **Guaranteed Privacy: 100% local processing through LM Studio.
 * **Secure Authentication: Gmail connection via OAuth 2.0.
 * **Integration: OpenAI API-style request format.
